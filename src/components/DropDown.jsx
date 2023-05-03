@@ -65,41 +65,6 @@ const DropDown = ({ data, selected, setSelected }) => {
               <p className="ml-4">{token?.CoinInfo?.FullName}</p>
             </li>
           ))}
-          {/* <li className=" flex flex-row items-center p-2 text-white  ">
-            <img
-              className="w-10 h-9"
-              src="https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/ZJZZK5B2ZNF25LYQHMUTBTOMLU.png"
-            />
-            <p className="ml-4">Etherum</p>
-          </li>
-          <li className=" flex flex-row items-center p-2 text-white  ">
-            <img
-              className="w-10 h-9"
-              src="https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/ZJZZK5B2ZNF25LYQHMUTBTOMLU.png"
-            />
-            <p className="ml-4">Etherum</p>
-          </li>
-          <li className=" flex flex-row items-center p-2 text-white  ">
-            <img
-              className="w-10 h-9"
-              src="https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/ZJZZK5B2ZNF25LYQHMUTBTOMLU.png"
-            />
-            <p className="ml-4">Etherum</p>
-          </li>
-          <li className=" flex flex-row items-center p-2 text-white  ">
-            <img
-              className="w-10 h-9"
-              src="https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/ZJZZK5B2ZNF25LYQHMUTBTOMLU.png"
-            />
-            <p className="ml-4">Etherum</p>
-          </li>
-          <li className=" flex flex-row items-center p-2 text-white  ">
-            <img
-              className="w-10 h-9"
-              src="https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/ZJZZK5B2ZNF25LYQHMUTBTOMLU.png"
-            />
-            <p className="ml-4">Etherum</p>
-          </li> */}
         </ul>
       </div>
     </div>

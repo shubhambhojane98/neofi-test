@@ -27,7 +27,7 @@ const Card = () => {
   return (
     <div className="relative bg-cardBackgroundColor shadow-2xl rounded-lg p-5 w-3/4 md:h-2/4  mt-52 md:flex md:flex-col  md: justify-evenly mx-auto  md:mt-32 md:w-1/4  ">
       <img
-        className="h-10 w-10 absolute bottom-full ml-28 -top-4 md:ml-40 md:-top-10  md:h-20 md:w-20"
+        className="h-10 w-10 absolute bottom-full ml-28 -top-4 md:ml-32 md:-top-10  md:h-20 md:w-20"
         src={
           selected
             ? `https://www.cryptocompare.com${selected?.CoinInfo.ImageUrl}`
