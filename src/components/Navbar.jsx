@@ -22,19 +22,19 @@ const Navbar = () => {
       >
         <li className=" group text-blue transition duration-300">
           Trade
-          <span class="block max-w-0 group-hover:max-w-full transition-all duration-500 relative top-2.5 h-1 bg-blue"></span>
+          <span class="block max-w-0 group-hover:max-w-full transition-all duration-500 relative top-2.5 h-1 md:bg-blue"></span>
         </li>
         <li className="group text-blue transition duration-300">
           Earn
-          <span class="block max-w-0 group-hover:max-w-full transition-all duration-500 relative top-2.5 h-1 bg-blue"></span>
+          <span class="block max-w-0 group-hover:max-w-full transition-all duration-500 relative top-2.5 h-1 md:bg-blue"></span>
         </li>
         <li className="group text-blue transition duration-300">
           Support
-          <span class="block max-w-0 group-hover:max-w-full transition-all duration-500 relative top-2.5 h-1 bg-blue"></span>
+          <span class="block max-w-0 group-hover:max-w-full transition-all duration-500 relative top-2.5 h-1 md:bg-blue"></span>
         </li>
         <li className="group text-blue transition duration-300">
           About
-          <span class="block max-w-0 group-hover:max-w-full transition-all duration-500 relative top-2.5 h-1 bg-blue"></span>
+          <span class="block max-w-0 group-hover:max-w-full transition-all duration-500 relative top-2.5 h-1 md:bg-blue"></span>
         </li>
       </ul>
       <button className="bg-gradient-to-t from-blue to-purple rounded-xl px-2 m-1 ">
